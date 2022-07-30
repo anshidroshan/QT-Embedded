@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/search.png</file>
+        <file>img/pos.jpg</file>
+        <file>img/LACTOLIX-LOGO-ICO.png</file>
+        <file>img/LACTOLIX-LOGO-2.png</file>
+        <file>img/dairypos320.jpg</file>
+        <file>img/dairypos.jpg</file>
+        <file>img/dairypos_small.png</file>
+        <file>img/computer-icons-icon-design-business-administration-clip-art-admin-icon-f25cc55ba80cfa855c8b502bf3a4198c.png</file>
+        <file>img/beaker-science-test-tube-chemistry-clip-art-acid-cliparts-caaf4610e23fb14e02edabd638e01e23.png</file>
+        <file>img/computer-icons-test-report-business-others-f65cdf2da6dffb11c2e0ae47dc46b350.png</file>
+        <file>img/computer-icons-shopping-cart-software-buying-and-selling-e1271e33ad990c92105c1ecc8c0b5535.png</file>
+        <file>img/vgdpujka87qqt3nlqshv21arcj-01374b1977dbd75d57cfe1d2d8215839.png</file>
+        <file>img/hiclipart.com.png</file>
+        <file>img/computer-icons-unlock-96dd1e877b9b1f40e3bbe156658de3fd.png</file>
+        <file>img/computer-icons-login-icon-design-others-be6f7acdba81e476de0b2064393bc07a.png</file>
+        <file>img/computer-icons-symbol-symbol-301a4c3744252d2464feff16a67dbe5a.png</file>
+        <file>img/computer-icons-download-save-button-f28b01c502ea7c38f2155c2ae471bd32.png</file>
+        <file>img/computer-icons-printing-printer-print-5bea1bb78d27f4221d3774da565516c7.png</file>
+        <file>img/computer-icons-vendor-sales-random-icons-ec2968cc8666f04904ccf9a318f58cf9.png</file>
+        <file>img/money-bag-currency-symbol-dollar-sign-fund-c8251f31b1751c629ffdfc1a25931067.png</file>
+        <file>img/triangle-symbol-arrow-back-2-2edd4b0343e357a49da0a0e5e22fe97a.png</file>
+        <file>img/computer-icons-download-fast-forward-next-button-d417670c9d8e0b953b02497b91137e64.png</file>
+    </qresource>
+</RCC>
