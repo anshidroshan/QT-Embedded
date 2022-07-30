@@ -1,4 +1,4 @@
-# QT-Embedded
+# QT-Embedded Automated Diary Analysis System
 
 Code mentioned here allows to automate a digital milk analyzer to simultaneously send and receive data to a Serial POS machine.
 The code is written completely with OOPS Concepts
